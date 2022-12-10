@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AVL Tree/AVL Tree.iml" filepath="$PROJECT_DIR$/AVL Tree/AVL Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AVL Tree - Copy/AVL Tree - Copy.iml" filepath="$PROJECT_DIR$/AVL Tree - Copy/AVL Tree - Copy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AutoboxingandUnboxing/AutoboxingandUnboxing.iml" filepath="$PROJECT_DIR$/AutoboxingandUnboxing/AutoboxingandUnboxing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AutoboxingandUnboxing - Copy/AutoboxingandUnboxing - Copy.iml" filepath="$PROJECT_DIR$/AutoboxingandUnboxing - Copy/AutoboxingandUnboxing - Copy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BFSANDDFS/BFSANDDFS.iml" filepath="$PROJECT_DIR$/BFSANDDFS/BFSANDDFS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BFSANDDFS - Copy/BFSANDDFS - Copy.iml" filepath="$PROJECT_DIR$/BFSANDDFS - Copy/BFSANDDFS - Copy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BFSWithAdjacencyList/BFSWithAdjacencyList.iml" filepath="$PROJECT_DIR$/BFSWithAdjacencyList/BFSWithAdjacencyList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BFSWithAdjacencyList - Copy/BFSWithAdjacencyList - Copy.iml" filepath="$PROJECT_DIR$/BFSWithAdjacencyList - Copy/BFSWithAdjacencyList - Copy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Backtracking/Backtracking.iml" filepath="$PROJECT_DIR$/Backtracking/Backtracking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Backtracking - Copy/Backtracking - Copy.iml" filepath="$PROJECT_DIR$/Backtracking - Copy/Backtracking - Copy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BellmanFordAlgorithm/BellmanFordAlgorithm.iml" filepath="$PROJECT_DIR$/BellmanFordAlgorithm/BellmanFordAlgorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BellmanFordAlgorithm - Copy/BellmanFordAlgorithm - Copy.iml" filepath="$PROJECT_DIR$/BellmanFordAlgorithm - Copy/BellmanFordAlgorithm - Copy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinaryHeap/BinaryHeap.iml" filepath="$PROJECT_DIR$/BinaryHeap/BinaryHeap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinaryHeap - Copy/BinaryHeap - Copy.iml" filepath="$PROJECT_DIR$/BinaryHeap - Copy/BinaryHeap - Copy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinarySearchTREE/BinarySearchTREE.iml" filepath="$PROJECT_DIR$/BinarySearchTREE/BinarySearchTREE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinarySearchTREE - Copy/BinarySearchTREE - Copy.iml" filepath="$PROJECT_DIR$/BinarySearchTREE - Copy/BinarySearchTREE - Copy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinarySearch_problem/BinarySearch_problem.iml" filepath="$PROJECT_DIR$/BinarySearch_problem/BinarySearch_problem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinaryTREE/BinaryTREE.iml" filepath="$PROJECT_DIR$/BinaryTREE/BinaryTREE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinaryTREE - Copy/BinaryTREE - Copy.iml" filepath="$PROJECT_DIR$/BinaryTREE - Copy/BinaryTREE - Copy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinaryTREEA/BinaryTREEA.iml" filepath="$PROJECT_DIR$/BinaryTREEA/BinaryTREEA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinaryTREEA - Copy/BinaryTREEA - Copy.iml" filepath="$PROJECT_DIR$/BinaryTREEA - Copy/BinaryTREEA - Copy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChallengeofAbstract/ChallengeofAbstract.iml" filepath="$PROJECT_DIR$/ChallengeofAbstract/ChallengeofAbstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChallengeofAbstract - Copy/ChallengeofAbstract - Copy.iml" filepath="$PROJECT_DIR$/ChallengeofAbstract - Copy/ChallengeofAbstract - Copy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CircularDoublyLinkedlist/CircularDoublyLinkedlist.iml" filepath="$PROJECT_DIR$/CircularDoublyLinkedlist/CircularDoublyLinkedlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CircularLinkedList/CircularLinkedList.iml" filepath="$PROJECT_DIR$/CircularLinkedList/CircularLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CircularQueue/CircularQueue.iml" filepath="$PROJECT_DIR$/CircularQueue/CircularQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codechef_greedy_problem/Codechef_greedy_problem.iml" filepath="$PROJECT_DIR$/Codechef_greedy_problem/Codechef_greedy_problem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collection3/Collection3.iml" filepath="$PROJECT_DIR$/Collection3/Collection3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DijkstraAlgorithm/DijkstraAlgorithm.iml" filepath="$PROJECT_DIR$/DijkstraAlgorithm/DijkstraAlgorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DisjointSet/DisjointSet.iml" filepath="$PROJECT_DIR$/DisjointSet/DisjointSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Doublehashing/Doublehashing.iml" filepath="$PROJECT_DIR$/Doublehashing/Doublehashing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DoublyLinkedList/DoublyLinkedList.iml" filepath="$PROJECT_DIR$/DoublyLinkedList/DoublyLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DynamicProgramming/DynamicProgramming.iml" filepath="$PROJECT_DIR$/DynamicProgramming/DynamicProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FloydWarshallAlogorithm/FloydWarshallAlogorithm.iml" filepath="$PROJECT_DIR$/FloydWarshallAlogorithm/FloydWarshallAlogorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FractionalKnapsackProblem/FractionalKnapsackProblem.iml" filepath="$PROJECT_DIR$/FractionalKnapsackProblem/FractionalKnapsackProblem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph.iml" filepath="$PROJECT_DIR$/Graph/Graph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Greedy_problems/Greedy_problems.iml" filepath="$PROJECT_DIR$/Greedy_problems/Greedy_problems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HashMap/HashMap.iml" filepath="$PROJECT_DIR$/HashMap/HashMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HellowjavaFx/HellowjavaFx.iml" filepath="$PROJECT_DIR$/HellowjavaFx/HellowjavaFx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HouseRobber/HouseRobber.iml" filepath="$PROJECT_DIR$/HouseRobber/HouseRobber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/IdeaProjects.iml" filepath="$PROJECT_DIR$/IdeaProjects/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interface/Interface.iml" filepath="$PROJECT_DIR$/Interface/Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KruskalAlgo/KruskalAlgo.iml" filepath="$PROJECT_DIR$/KruskalAlgo/KruskalAlgo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinearProbing/LinearProbing.iml" filepath="$PROJECT_DIR$/LinearProbing/LinearProbing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedListDs/LinkedListDs.iml" filepath="$PROJECT_DIR$/LinkedListDs/LinkedListDs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList_challenge/LinkedList_challenge.iml" filepath="$PROJECT_DIR$/LinkedList_challenge/LinkedList_challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Matrix/Matrix.iml" filepath="$PROJECT_DIR$/Matrix/Matrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PractiseforDSA/PractiseforDSA.iml" filepath="$PROJECT_DIR$/PractiseforDSA/PractiseforDSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PractiseforDSA/PrimsAlgo/PrimsAlgo.iml" filepath="$PROJECT_DIR$/PractiseforDSA/PrimsAlgo/PrimsAlgo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProblemonDvideandConquer/ProblemonDvideandConquer.iml" filepath="$PROJECT_DIR$/ProblemonDvideandConquer/ProblemonDvideandConquer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PycharmProjects/PycharmProjects.iml" filepath="$PROJECT_DIR$/PycharmProjects/PycharmProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QuadraticProb/QuadraticProb.iml" filepath="$PROJECT_DIR$/QuadraticProb/QuadraticProb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Queue/Queue.iml" filepath="$PROJECT_DIR$/Queue/Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QueuebyLinkedlist/QueuebyLinkedlist.iml" filepath="$PROJECT_DIR$/QueuebyLinkedlist/QueuebyLinkedlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SSSPP(Single_source_of_shorted_path)/SSSPP(Single_source_of_shorted_path).iml" filepath="$PROJECT_DIR$/SSSPP(Single_source_of_shorted_path)/SSSPP(Single_source_of_shorted_path).iml" />
+      <module fileurl="file://$PROJECT_DIR$/SSSPP(Single_source_shortest_path)AdjacencyMatrix/SSSPP(Single_source_shortest_path)AdjacencyMatrix.iml" filepath="$PROJECT_DIR$/SSSPP(Single_source_shortest_path)AdjacencyMatrix/SSSPP(Single_source_shortest_path)AdjacencyMatrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SetHashSet/STACK/STACK.iml" filepath="$PROJECT_DIR$/SetHashSet/STACK/STACK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Timecomplexity/STACK/STACK1.iml" filepath="$PROJECT_DIR$/Timecomplexity/STACK/STACK1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SearchingAlgo/SearchingAlgo.iml" filepath="$PROJECT_DIR$/SearchingAlgo/SearchingAlgo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SearchingSorting/SearchingSorting.iml" filepath="$PROJECT_DIR$/SearchingSorting/SearchingSorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SetHashSet/SetHashSet.iml" filepath="$PROJECT_DIR$/SetHashSet/SetHashSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sliderspinnercol/Sliderspinnercol.iml" filepath="$PROJECT_DIR$/Sliderspinnercol/Sliderspinnercol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SortingAlgorithm/SortingAlgorithm.iml" filepath="$PROJECT_DIR$/SortingAlgorithm/SortingAlgorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StriverSDEArrays/StriverSDEArrays.iml" filepath="$PROJECT_DIR$/StriverSDEArrays/StriverSDEArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TODOLIST/TODOLIST.iml" filepath="$PROJECT_DIR$/TODOLIST/TODOLIST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TREE/TREE.iml" filepath="$PROJECT_DIR$/TREE/TREE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Timecomplexity/Timecomplexity.iml" filepath="$PROJECT_DIR$/Timecomplexity/Timecomplexity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TopologicalSort/TopologicalSort.iml" filepath="$PROJECT_DIR$/TopologicalSort/TopologicalSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trie/Trie.iml" filepath="$PROJECT_DIR$/Trie/Trie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arraylist/arraylist.iml" filepath="$PROJECT_DIR$/arraylist/arraylist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/challengeInterface/challengeInterface.iml" filepath="$PROJECT_DIR$/challengeInterface/challengeInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/challengeInterface - Copy/challengeInterface - Copy.iml" filepath="$PROJECT_DIR$/challengeInterface - Copy/challengeInterface - Copy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/challengeMap/challengeMap.iml" filepath="$PROJECT_DIR$/challengeMap/challengeMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/challengeMap - Copy/challengeMap - Copy.iml" filepath="$PROJECT_DIR$/challengeMap - Copy/challengeMap - Copy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coinchageProblem/coinchageProblem.iml" filepath="$PROJECT_DIR$/coinchageProblem/coinchageProblem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collection_framwork/collection_framwork.iml" filepath="$PROJECT_DIR$/collection_framwork/collection_framwork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/datastructure.iml" filepath="$PROJECT_DIR$/.idea/datastructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generic/generic.iml" filepath="$PROJECT_DIR$/generic/generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inner_class/inner_class.iml" filepath="$PROJECT_DIR$/inner_class/inner_class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/problem_1/problem_1.iml" filepath="$PROJECT_DIR$/problem_1/problem_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/problem_2/problem_2.iml" filepath="$PROJECT_DIR$/problem_2/problem_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/untitled/untitled.iml" filepath="$PROJECT_DIR$/IdeaProjects/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>
